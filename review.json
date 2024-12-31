@@ -1,0 +1,242 @@
+[
+  {
+    "numero": 1,
+    "titre": "Parasite",
+    "avis": "Un thriller social brillant qui expose les inégalités avec une intelligence rare. L'intrigue est complexe et les personnages sont attachants, malgré leur noirceur.",
+    "reviewer": "Jean Dupont"
+  },
+  {
+    "numero": 2,
+    "titre": "Parasite",
+    "avis": "Malgré son mérite pour dénoncer les inégalités sociales, le film est trop sombre et pessimiste. L'humour noir ne suffit pas à réchauffer l'atmosphère oppressante.",
+    "reviewer": "Christophe Bertrand"
+  },
+  {
+    "numero": 3,
+    "titre": "Parasite",
+    "avis": "Ce film coréen a un impact émotionnel puissant, mais l'intrigue devient trop compliquée et les personnages manquent d'humanité. Une tentative intéressante mais incomplète.",
+    "reviewer": "Marie-Thérèse Dumas"
+  },
+  {
+    "numero": 4,
+    "titre": "Parasite",
+    "avis": "Un thriller qui exploite les clichés de la lutte des classes et met en scène des personnages répugnants. L'humour noir tombe à plat face au réalisme crue.",
+    "reviewer": "Pierre-Yves Renard"
+  },
+  {
+    "numero": 5,
+    "titre": "Parasite",
+    "avis": "Un chef-d'œuvre pour le cinéma coréen, qui révèle la face sombre de la société avec une puissance émotionnelle exceptionnelle. Un film qui vous suit longtemps après avoir quitté le cinema.",
+    "reviewer": "François Gendre"
+  },
+  {
+    "numero": 6,
+    "titre": "Parasite",
+    "avis": "La satire sociale est efficace, mais les personnages trop sombres et la fin ambiguë ne suffisent pas pour équilibrer l'ensemble. Un film intéressant mais pas sans failles.",
+    "reviewer": "Léonie Foucher"
+  },
+  {
+    "numero": 7,
+    "titre": "Parasite",
+    "avis": "Un thriller qui dénonce les injustices de la société coréenne avec une intelligence rare. Les scènes de tension sont palpables et le film vous laisse réfléchir sur les inégalités.",
+    "reviewer": "Gaspard Dumont"
+  },
+  {
+    "numero": 8,
+    "titre": "Parasite",
+    "avis": "Ce film est trop long et se complique lui-même. Les personnages ont une personnalité floue et les dialogues sont parfois difficile à suivre.",
+    "reviewer": "Antoine Durand"
+  },
+  {
+    "numero": 9,
+    "titre": "Parasite",
+    "avis": "Un thriller social brillant qui expose avec humour les contradictions de la société coréenne. Un film qui montre que le cinéma peut être une arme contre l'ignorance.",
+    "reviewer": "Isabelle Moreau"
+  },
+  {
+    "numero": 10,
+    "titre": "Parasite",
+    "avis": "Le réalisateur Bong Joon-ho réussit à cerner les inégalités sociales de manière originale et poétique. Un film qui vous laisse penser aux injustices du monde.",
+    "reviewer": "Lucie Lefebvre"
+  },
+  {
+    "numero": 11,
+    "titre": "Le Parrain",
+    "avis": "Un classique qui résiste au temps, Le Parrain est un thriller politique puissant qui explore le monde des mafia avec une profondeur rare. Les performances sont incroyables.",
+    "reviewer": "Jean-Pierre Delage"
+  },
+  {
+    "numero": 12,
+    "titre": "Le Parrain",
+    "avis": "Malgré son intemporalité, Le Parrain est un film vieilli par sa violence et ses stéréotypes italo-américains. Les longs monologues de Brando ne suffisent pas à le sauver.",
+    "reviewer": "Christophe Bertrand"
+  },
+  {
+    "numero": 13,
+    "titre": "Le Parrain",
+    "avis": "C'est en regardant Le Parrain que j'ai compris l'importance du réalisme dans le cinéma. De la violence à l'honneur, tout est justifié et émotionnel.",
+    "reviewer": "Sophie Lefebvre"
+  },
+  {
+    "numero": 14,
+    "titre": "Le Parrain",
+    "avis": "Un film qui expose les rouages du pouvoir criminel avec une maîtrise rare. Les performances de Pacino, Duvall et Caan sont exceptionnelles.",
+    "reviewer": "Pierre Durand"
+  },
+  {
+    "numero": 15,
+    "titre": "Le Parrain",
+    "avis": "Malgré des moments inégal, Le Parrain est un chef-d'œuvre qui explore les thèmes du pouvoir et de la corruption avec une force incontestable. Un classique qui résiste au temps.",
+    "reviewer": "Marie-Thérèse Dumas"
+  },
+  {
+    "numero": 16,
+    "titre": "Le Parrain",
+    "avis": "Ce film est trop long et se complique lui-même avec ses multiples intrigues. Les personnages ont une personnalité floue et les dialogues sont parfois difficiles à suivre.",
+    "reviewer": "Antoine Durand"
+  },
+  {
+    "numero": 17,
+    "titre": "Le Parrain",
+    "avis": "Un thriller politique puissant qui expose la corruption et le pouvoir criminel avec une profondeur rare. Les performances sont incroyables et la mise en scène est magistrale.",
+    "reviewer": "Gaspard Dumont"
+  },
+  {
+    "numero": 18,
+    "titre": "Le Parrain",
+    "avis": "Ce film a une force émotionnelle exceptionnelle, mais il est trop sombre et violent pour mon goût. Les personnages ont une noirceur inégalée.",
+    "reviewer": "Léonie Foucher"
+  },
+  {
+    "numero": 19,
+    "titre": "Le Parrain",
+    "avis": "Un film qui révèle les rouages de la mafia avec une maîtrise rare. Les performances sont exceptionnelles et l'histoire est à la fois dramatique et politique.",
+    "reviewer": "Isabelle Moreau"
+  },
+  {
+    "numero": 20,
+    "titre": "Le Parrain",
+    "avis": "Un classique du cinéma qui explore les thèmes du pouvoir, de la famille et de la corruption avec une puissance émotionnelle exceptionnelle.",
+    "reviewer": "Lucie Lefebvre"
+  },
+  {
+    "numero": 21,
+    "titre": "Pulp Fiction",
+    "avis": "Un film qui bouleverse les règles du jeu, Pulp Fiction est un chef-d'œuvre du cinéma américain. Les personnages sont attachants et les dialogues cultes font partie de la culture populaire.",
+    "reviewer": "Jean-Pierre Delage"
+  },
+  {
+    "numero": 22,
+    "titre": "Pulp Fiction",
+    "avis": "Malgré son influence, Pulp Fiction est un film trop déjanté et complexe pour mon goût. Les intrigues sont énervantes et les personnages manquent d'humanité.",
+    "reviewer": "Christophe Bertrand"
+  },
+  {
+    "numero": 23,
+    "titre": "Pulp Fiction",
+    "avis": "Un film déjanté et stylisé qui repousse les limites du cinéma. L'humour noir et les dialogues cultes en font un classique.",
+    "reviewer": "Pierre Durand"
+  },
+  {
+    "numero": 24,
+    "titre": "Pulp Fiction",
+    "avis": "Pulp Fiction est un film qui réinvente la façon d'écouter les dialogues et de suivre des histoires non linéaires. Les performances sont exceptionnelles et les thèmes sont sombres mais fascinants.",
+    "reviewer": "Marie-Thérèse Dumas"
+  },
+  {
+    "numero": 25,
+    "titre": "Pulp Fiction",
+    "avis": "Malgré ses moments inégal, Pulp Fiction est un film qui explore les thèmes de la violence, du sexe et de la mort avec une maîtrise rare. Un chef-d'œuvre pour le cinéma post-moderne.",
+    "reviewer": "Gaspard Dumont"
+  },
+  {
+    "numero": 26,
+    "titre": "Pulp Fiction",
+    "avis": "Ce film est trop long et se complique lui-même avec ses multiples intrigues non linéaires. Les personnages ont une personnalité floue et les dialogues sont parfois difficiles à suivre.",
+    "reviewer": "Antoine Durand"
+  },
+  {
+    "numero": 27,
+    "titre": "Pulp Fiction",
+    "avis": "Un film qui montre que le cinéma peut être une arme contre l'ignorance. Pulp Fiction est un chef-d'œuvre qui explore les thèmes de la violence et du sexe avec une maîtrise rare.",
+    "reviewer": "Isabelle Moreau"
+  },
+  {
+    "numero": 28,
+    "titre": "Pulp Fiction",
+    "avis": "Ce film a un impact émotionnel puissant, mais les intrigues non linéaires peuvent être énervantes pour certains spectateurs. Les performances sont exceptionnelles et les dialogues cultes font partie de la culture populaire.",
+    "reviewer": "Lucie Lefebvre"
+  },
+  {
+    "numero": 29,
+    "titre": "Pulp Fiction",
+    "avis": "Un film qui bouleverse les conventions du cinéma avec une maîtrise rare. Les personnages sont attachants et les thèmes de la violence, du sexe et de la mort sont explorés de manière sombre mais fascinante.",
+    "reviewer": "François Gendre"
+  },
+  {
+    "numero": 30,
+    "titre": "Pulp Fiction",
+    "avis": "Malgré ses défauts, Pulp Fiction est un film qui a marqué l'histoire du cinéma. Les dialogues cultes et les performances sont incroyables et font de ce film un classique.",
+    "reviewer": "Marie Martin"
+  },
+  {
+    "numero": 31,
+    "titre": "La La Land",
+    "avis": "Un film enchanteur qui nous emporte dans un monde de rêve et d'amour. Les chansons sont sublimes et les interprétations des acteurs sont exceptionnelles.",
+    "reviewer": "Jean-Pierre Delage"
+  },
+  {
+    "numero": 32,
+    "titre": "La La Land",
+    "avis": "Malgré son charme, La La Land est un film trop superficiel et romantique pour mon goût. Les personnages ont une personnalité floue et les dialogues sont parfois vagues.",
+    "reviewer": "Christophe Bertrand"
+  },
+  {
+    "numero": 33,
+    "titre": "La La Land",
+    "avis": "Une comédie musicale envoûtante et nostalgique qui célèbre l'amour et les rêves. Les chansons sont magnifiques et les acteurs ont une alchimie incroyable.",
+    "reviewer": "Léa Girard"
+  },
+  {
+    "numero": 34,
+    "titre": "La La Land",
+    "avis": "Ce film est une ode à l'amour et aux rêves, avec des chansons magnifiques qui vous emportent dans un monde de fantasmes. Un chef-d'œuvre pour le cinéma musical.",
+    "reviewer": "Marie-Thérèse Dumas"
+  },
+  {
+    "numero": 35,
+    "titre": "La La Land",
+    "avis": "Malgré quelques moments inégal, La La Land est un film qui montre que le cinéma peut encore créer de beaux rêves et des amour romantiques. Les chansons sont sublimes.",
+    "reviewer": "Gaspard Dumont"
+  },
+  {
+    "numero": 36,
+    "titre": "La La Land",
+    "avis": "Ce film est trop long et se complique lui-même avec ses répétitions de scènes. Les personnages ont une personnalité floue et les dialogues sont parfois vagues.",
+    "reviewer": "Antoine Durand"
+  },
+  {
+    "numero": 37,
+    "titre": "La La Land",
+    "avis": "Un film qui montre que le cinéma musical peut encore créer des moments magiques. Les chansons sont incroyables et les interprétations des acteurs sont exceptionnelles.",
+    "reviewer": "Isabelle Moreau"
+  },
+  {
+    "numero": 38,
+    "titre": "La La Land",
+    "avis": "Ce film a un charme évident, mais il est trop sentimental et romantique pour mon goût. Les personnages ont une personnalité floue et les dialogues sont parfois vagues.",
+    "reviewer": "Léonie Foucher"
+  },
+  {
+    "numero": 39,
+    "titre": "La La Land",
+    "avis": "Un film qui célèbre l'amour, la musique et les rêves. Les chansons sont sublimes et les interprétations des acteurs sont exceptionnelles.",
+    "reviewer": "François Gendre"
+  },
+  {
+    "numero": 40,
+    "titre": "La La Land",
+    "avis": "Malgré ses défauts, La La Land est un film qui a marqué l'histoire du cinéma musical. Les chansons sont incroyables et les acteurs ont une alchimie incroyable.",
+    "reviewer": "Marie Martin"
+  }
+]
